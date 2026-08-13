@@ -1,2 +1,4 @@
 CLAUDE.md
 zdocs/
+.venv/
+__pycache__/
