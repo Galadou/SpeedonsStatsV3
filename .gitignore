@@ -2,3 +2,7 @@ CLAUDE.md
 zdocs/
 .venv/
 __pycache__/
+*.db
+.$*.bkp
+*.egg-info/
+dist/
